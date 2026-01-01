@@ -1,7 +1,3 @@
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+你好吗+%F0%9F%91%8B;我是SeaC-25+%F0%9F%98%B8" alt="Typing SVG" /></a>
-</h3>
-
 <h3 align="center">愿世间心诚剑士人人会两袖青蛇  。愿天下惊艳后辈人人可剑开天门。</h3>
 
 <!-- 徽章 -->
