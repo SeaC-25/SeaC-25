@@ -88,14 +88,12 @@
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
-<!-- 贪吃蛇代码贡献图 白天主题 -->
-<!--
-	![](https://raw.githubusercontent.com/SeaC-25/SeaC-25/master/assets/github-contribution-grid-snake.svg)
--->
-<!-- 贪吃蛇代码贡献图 夜间主题 -->
-![](https://raw.githubusercontent.com/SeaC-25/SeaC-25/master/assets/github-contribution-grid-snake-dark.svg)
-
-
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SeaC-25/SeaC-25/blob/output/github-snake-dark.svg" width="1920" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/SeaC-25/SeaC-25/blob/output/github-snake.svg" width="1920" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <!-- 最近一个月活动图 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaC-25&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
