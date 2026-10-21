@@ -52,7 +52,7 @@
   
   - <a>基于 Docker 的网络安全实验平台设计与实现[已投]</a>
   
-  - <a href='https://github.com/SeaC-25/Kali-Security-MCP'>Kali MCP</a> 连接kali linux与ClaudeCode等主流大模型进行全面CTF挑战及渗透测试的MCP
+  - <a href='https://github.com/SeaC-25/Kali-Security-MCP'>Kali MCP</a> 连接kali linux与ClaudeCode等主流大模型进行全面CTF挑战及渗透测试的MCP</a>
 
 <!-- END_SECTION:blog -->
 
