@@ -23,11 +23,6 @@
     <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="100%" height="3">
 </p>
 
-<p align="left">
-	<!-- 五年变化 图片 -->
-	<img src="https://cdn.jsdelivr.net/gh/Mr-Super-X/Mr-Super-X/assets/img/cxybh.jpg" alt="当程序员的五年变化" width="1920" />
-</p>
-
 
 ### About Me
 
@@ -35,9 +30,9 @@
 
 - 🤺 热爱编程、摄影、试图培养新的爱好。
 
-- 🔭 目前在宁夏某末二当躺平虫。
+- 🔭 目前在北京某AI+安全初创公司进行大模型研究。
 
-- 🌱 正在使用ClaudeCode重构世界。
+- 🌱 正在使用思维重构世界。
 
 - 💬 可以问我AI相关的问题。
 
@@ -62,21 +57,6 @@
 <!-- END_SECTION:blog -->
 
 
-<!-- 最近在读 -->
-### Movies and Books
-
-- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《海上钢琴师》</a> 🌟🌟🌟🌟🌟
-  - 后来我才知道生活的大多数时候其实是孤独的，是我们心里无处安放的孤独，不被这个世界所认可的孤独。
-- <a href='http://movie.douban.com/subject/1292052/' target='_blank'>《肖申克的救赎》</a> 🌟🌟🌟🌟🌟
-  - 要么忙着生活，要么忙着等死（Busy for living,  or busy for death）。步履匆匆的人们也许应该偶尔驻足，跳出来看看自己的模样。我们终会知道，习惯于服从规则的人们将付出巨大代价来习惯本来属于每一个个体的自由。
-- <a href='https://movie.douban.com/subject/1291841/' target='_blank'>《教父》</a> 🌟🌟🌟🌟🌟
-  - 黑帮教父会教会你人生处世、社会的真实、家庭以及如何耍酷。
-- <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》</a> 🌟🌟🌟🌟🌟
-  - 通过“大脑构造、潜意识、元认知”等思维规律，你将真正看清自己。
-- <a href='https://book.douban.com/subject/3533221/' target='_blank'>《非暴力沟通》</a> 🌟🌟🌟🌟🌟
-  - 尝试换一种沟通方式，也许你能避免生活中的很多冲突。
-- <a href='https://book.douban.com/subject/6518605/' target='_blank'>《三体》</a> 🌟🌟🌟🌟🌟
-  - 前进，前进，不择手段的前进。
 
 <p align="left">
 	<!-- 压力哪有这么大 图片 -->
