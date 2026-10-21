@@ -79,9 +79,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SeaC-25&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!-- <p align="left"> 
-   <img src="https://komarev.com/ghpvc/?username=SeaC-25&label=Profile%20views&color=0e75b6&style=flat" alt="SeaC-25" />
-</p> -->
 
 <p align="left"> 
 	<!-- GitHub 奖杯🏆 -->
