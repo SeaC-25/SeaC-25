@@ -80,6 +80,10 @@
 
 
 
+<!-- <p align="left"> 
+   <img src="https://komarev.com/ghpvc/?username=SeaC-25&label=Profile%20views&color=0e75b6&style=flat" alt="SeaC-25" />
+</p> -->
+
 <p align="left"> 
 	<!-- GitHub 奖杯🏆 -->
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SeaC-25&theme=onedark&row=1&column=8" alt="SeaC-25" /></a> 
